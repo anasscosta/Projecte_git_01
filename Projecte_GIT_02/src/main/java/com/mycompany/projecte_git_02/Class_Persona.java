@@ -20,6 +20,6 @@ public class Class_Persona {
     }
     public void saludar(){
         
-    System.out.println("Hola, soc en " + nom + "i tinc "+ edat + " anys.");
+    System.out.println("Hola, soc en " + nom + "i tinc "+ edat + " anysdd.");
     }
 }

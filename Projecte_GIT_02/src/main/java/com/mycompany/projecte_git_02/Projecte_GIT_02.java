@@ -12,5 +12,10 @@ public class Projecte_GIT_02 {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
+        
+        Class_Persona Persona = new Class_Persona(nom: "Pere", edat:25);
+        
+        
+        
     }
 }
